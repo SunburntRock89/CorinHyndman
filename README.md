@@ -2,4 +2,4 @@
 My name is Corin Hyndman I am currently a student learning primarily C# welcome to my profile :)
 
 # Repositories
-> - [Console Games](https://github.com/CorinHyndman/Console-Games)
+> - [This link is now deprecated](https://github.com/SunburntRock89/sunbot)
